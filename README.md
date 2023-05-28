@@ -32,13 +32,13 @@ The circuit diagram illustrates the connections between the components.
 3.	Four LDRs are connected to the analog input pins of the Arduino: ldrtopr, ldrtopl, ldrbotr, and ldrbotl.
 4.	In the setup() function, the initial positions of the servo motors are set, and a delay is added for stability.
 5.	In the loop() function, the code continuously reads the LDR values and calculates average values for different combinations.
-6.	Based on the LDR readings, the code adjusts the servo positions:
+**Based on the LDR readings, the code adjusts the servo positions:**
 -	If the top LDR readings are lower than the bottom LDR readings, the vertical servo position is decreased by 1 degree, clamped to the upper limit.
 -	If the bottom LDR readings are lower than the top LDR readings, the vertical servo position is increased by 1 degree, clamped to the lower limit.
 -	If the LDR readings are equal, the vertical servo position remains unchanged.
 -	Similar logic is applied to adjust the horizontal servo position based on left and right LDR readings.
 
-##**Step-by-Step Instructions**
+## **Step-by-Step Instructions**
 **Follow these instructions to build the Dual-Axis Solar Tracker:**
 1. Assemble the hardware components on the breadboard.
 2. Connect the servomotors to the appropriate pins on the Arduino Uno, ensuring proper power and ground connections.

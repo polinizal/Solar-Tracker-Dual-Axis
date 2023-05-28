@@ -1,7 +1,7 @@
-Dual-Axis Solar Tracker Documentation
-Introduction
+# Dual-Axis Solar Tracker Documentation
+## **Introduction**
 The Dual-Axis Solar Tracker is a project designed to optimize the positioning of a solar panel to maximize its exposure to sunlight throughout the day. By utilizing two servomotors and four Light Dependent Resistor (LDR) sensors, controlled with an Arduino Uno microcontroller, this solar tracker adjusts the panel's orientation to follow the sun's movement across the sky or any other light source.
-Project Overview
+## **Project Overview**
 The solar tracker consists of the following main components:
 •	Arduino Uno: The Arduino board acts as the brains of the system, controlling the servomotors and processing sensor inputs.
 •	Two Servo Motors: These motors are responsible for adjusting the solar panel's horizontal and vertical angles.

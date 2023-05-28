@@ -45,7 +45,7 @@ The circuit diagram illustrates the connections between the components.
 3. Connect the LDRs to analog input pins on the Arduino Uno. Use the resistors to create a voltage divider circuit for each LDR.
 4. Upload the code to the Arduino Uno using the Arduino IDE.
 5. Power on the system and observe the servomotors adjusting the solar panel's orientation.
-##**Testing and Troubleshooting**
+## **Testing and Troubleshooting**
 **To test the Dual-Axis Solar Tracker, follow these steps:**
 -	Place the solar tracker setup under sunlight.
 -	Observe the servomotors' movement as they adjust the solar panel to track the sun.
@@ -68,7 +68,7 @@ Possible future improvements for this project could include:
 -	Incorporating wireless communication for remote monitoring and control.
 -	Adding a light sensor for automatically turning off the tracker during nighttime.
 
-**Contact Information**
+# **Contact Information**
 Our team consists of:
 Polina Staneva ⇒ polina.staneva@yahoo.com
 Kosta Ilev ⇒ kosta.ilev@gmail.com

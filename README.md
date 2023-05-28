@@ -51,6 +51,7 @@ The circuit diagram illustrates the connections between the components.
 -	Place the solar tracker setup under sunlight.
 -	Observe the servomotors' movement as they adjust the solar panel to track the sun.
 -	Verify that the solar panel's orientation changes to maximize exposure to sunlight throughout the day.
+
 **If you encounter any issues, consider the following troubleshooting tips:**
 -	Check all connections and ensure they are properly secured.
 -	Verify that the LDRs are positioned correctly to sense light accurately.

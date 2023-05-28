@@ -78,6 +78,7 @@ Our team consists of:
 - Ekaterina Staneva ⇒ ekaterina18.st@gmail.com
 
 This project was created by team “Power Trio Web Cats”
+
 ![image](https://github.com/polinizal/Solar-Tracker-Dual-Axis/assets/71072498/1d899e1e-869b-444a-8623-cb8dc3bd1cb9)
 
 
